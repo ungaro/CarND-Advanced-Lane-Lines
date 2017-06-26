@@ -13,8 +13,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[cd]: ./examples/camera_distortion.png "Undistorted"
-[ud]: ./examples/undistorted.png "Undistorted"
+[cd]: ./output_images/camera_distortion.png "Undistorted"
+[ud]: ./output_images/undistorted.png "Undistorted"
 [image1]: ./examples/undistort_output.png "Undistorted"
 [image2]: ./test_images/test1.jpg "Road Transformed"
 [image3]: ./output_images/threshold.png "Binary Example"
