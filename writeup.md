@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image3]: ./output_images/threshold.png "Binary Example"
 [image4]: ./output_images/lane_detection.png "Warp Example"
 [image5]: ./examples/color_fit_lines.jpg "Fit Visual"
-[image6]: ./output_images/detected_lane.jpg "Output"
+[image6]: ./output_images/detected_lane.png "Output"
 [video1]: ./project_video_output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
